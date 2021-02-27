@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-right: 150px;
+    
+}
+header{
+    padding-bottom: 30px;
+    border-bottom: 5px solid;
+}
+
+header div{
+    display: inline-block;
+    position: relative;
+    top: -5px;
+    right: 2;
+}
+
+header div h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+header div p{
+    font-size: 12px;
+}
+header span{
+    float: right;
+    position: relative;
+    top: 15px;
+}
+header span section{
+    position: relative;
+    left: 15px;
+}
+main{
+    position: relative;
+    top: 50px;
+}
+main div {
+    display: inline-block;
+}
+main div h1{
+    font-weight: 800;
+    font-size: 40px;
+    font-family: serif;
+}
+main div p{
+    font-size: 12px;
+    font-family: sans-serif;
+    color: dimgrey;
+    padding-bottom: 20px;
+}
+
+
+
+#choclate{
+    width: 100%;
+    position: relative;
+    top:15px;
+}
+.pa{
+    position: relative;
+    top:40px;
+    font-size: 20px;
+    text-indent: 70px;
+    line-height: 25px;
+    color: dimgrey;
+}
+#print {
+    display: inline-block;
+    float:right;
+    font-size: 12px;
+    position: relative;
+    top:24px;
+    left: -13px;
+}
+form{
+    padding-top: 15px;
+    background-image: url("images/list-bg.png");
+    padding-bottom: 30px;
+    border-bottom: 5px solid;
+}
+main div section{
+    position: relative;
+    display: inline-block;
+    
+}
+main div img{
+    position: relative;
+    bottom: -12px;
+}
+
+main div button{
+    float: right;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    position: relative;
+    bottom: -30px;
+    background-color: brown;
+    color: cornsilk;
+}
+#tail{
+    width: 100%;
+    
+}
+body footer{
+    text-align: center;
+    padding-top: 60px
+    color: dimgrey;
+}
