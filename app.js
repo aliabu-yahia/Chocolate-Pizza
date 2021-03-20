@@ -1,4 +1,10 @@
-/*let forms=document.getElementById("form")
+/*let forms=document.getElementsByClassName("form")
 
-forms.addEventListener("on",())*/
+forms.addEventListener("on",myFunction);
+
+function myFunction() {
+    style.textDecoration = "underline overline";
+}
+
+console.log(forms);*/
 
