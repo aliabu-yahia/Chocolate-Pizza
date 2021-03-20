@@ -75,11 +75,20 @@ main div p{
     top:24px;
     left: -13px;
 }
+#form{
+    margin: 15px 0 10px 0;
+    background-color: #d2e4c6;
+    width: 100%;
+}
+
+
+
+
 form{
     padding-top: 15px;
-    background-image: url("images/list-bg.png");
+    
     padding-bottom: 30px;
-    border-bottom: 5px solid;
+   
 }
 main div section{
     position: relative;
@@ -101,11 +110,12 @@ main div button{
     color: cornsilk;
 }
 #tail{
+    border-top: 5px solid;
     width: 100%;
     
 }
 body footer{
     text-align: center;
-    padding-top: 120px
-    color: dimgrey;
+    padding-top: 60px
+   
 }
